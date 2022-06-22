@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arpit16297
-- 👀 Programmer Analyst Developer 
-- 🌱 I’m currently learning fse java
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me whatsapp-8210392094
+- 👋 Hi, I’m @arpit16297 
+- 🌱 I’m currently a part of Cognizant as an Intern
+-     Programmer Analyst Trainee.
+- 💞️ I’m ready to collaborate on fse projects
+- 📫 Reach me on whatsapp-8210392094
 
 <!---
 arpit16297/arpit16297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
