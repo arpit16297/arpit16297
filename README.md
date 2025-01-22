@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arpit16297 
-- 🌱 I’m currently a part of Cognizant as an Intern
--     Programmer Analyst Trainee.
-- 💞️ I’m ready to collaborate on fse projects
+- 🌱 I’m currently a part of Cognizant as Full Stack Java Developer
+-     Programmer Analyst.
+- 💞️ I’m ready to collaborate on fse(Java) projects
 - 📫 Reach me on whatsapp-8210392094
 
 <!---
